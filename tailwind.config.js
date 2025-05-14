@@ -7,10 +7,11 @@ export default {
   theme: {
     extend: {
       colors : {
-        seaGreen : '#3e885b',
-        night : '#00120b',
-        lightGreen : '#aafcb8',
-        babyPowder : '#fffffc'
+        shamrockGreen : '#32965d',
+        beige: '#eaf0ce',
+        honeydew : '#f1ffe7',
+        palePurple : '#ffe4fa',
+        smokyBlack : '#0b0500',
       },
     },
   },
